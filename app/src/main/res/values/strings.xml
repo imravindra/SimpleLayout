@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Account</string>
+    <string name="myrofile">My Profile</string>
+    <string name="pref">Preferences</string>
+    <string name="support">Support</string>
+    <string name="flames">Flames</string>
+    <string name="invite">Invite Friends</string>
+    <string name="myacc">My Account</string>
+</resources>
